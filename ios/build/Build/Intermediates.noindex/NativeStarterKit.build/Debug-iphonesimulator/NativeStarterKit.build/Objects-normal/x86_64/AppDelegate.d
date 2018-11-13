@@ -1,0 +1,29 @@
+dependencies: \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/NativeStarterKit/AppDelegate.m \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/NativeStarterKit/AppDelegate.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/Pods/Firebase/Core/Sources/module.modulemap \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/CodePush/CodePush.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBundleURLProvider.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/../node_modules/react-native-fcm/ios/RNFIRMessaging.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Modules/module.modulemap \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Headers/FIRMessaging.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Headers/FirebaseMessaging.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h

@@ -1,0 +1,34 @@
+dependencies: \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/node_modules/react-native-fcm/ios/RNFIRMessaging.m \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/node_modules/react-native-fcm/ios/RNFIRMessaging.h \
+  ../../../ios/Pods/Firebase/Core/Sources/module.modulemap \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FirebaseCore.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIRAnalyticsConfiguration.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIRApp.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIRConfiguration.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIRLoggerLevel.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIROptions.h \
+  ../../../ios/Pods/Headers/Public/FirebaseMessaging/FirebaseMessaging/FirebaseMessaging.h \
+  ../../../ios/Pods/Headers/Public/FirebaseMessaging/FirebaseMessaging/FIRMessaging.h \
+  ../../../ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FirebaseInstanceID.h \
+  ../../../ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FIRInstanceID.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/node_modules/react-native-fcm/ios/../../../ios/Pods/Firebase/Core/Sources/module.modulemap \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/Work/Workspace/ReactNative/Avatar(Business)/Inspection/Phase2/SourceCode/Avatar-Inspection-ios/Avatar-Inspection/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

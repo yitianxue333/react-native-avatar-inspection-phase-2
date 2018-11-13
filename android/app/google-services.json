@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "588558493044",
+    "firebase_url": "https://avatar-inspection.firebaseio.com",
+    "project_id": "avatar-inspection",
+    "storage_bucket": "avatar-inspection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588558493044:android:92d2a3c26590796a",
+        "android_client_info": {
+          "package_name": "com.avatarInspection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588558493044-2c47kahp8h6o8fpuk51dr8nim225rkt7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "588558493044-2c47kahp8h6o8fpuk51dr8nim225rkt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN6V4K1csYBnTj_-phjSTWTsvy7UxZlUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

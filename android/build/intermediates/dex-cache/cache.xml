@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\NativeStarterKit\react-native-code-push\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="87c4bf23d986e40b9869bbf64fbc231a019f14a0">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\NativeStarterKit-react-native-code-push-unspecified_594a4bd55f4938e20f3bd045002083ec891cdf4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gyongyong\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_5630eba9ac7fb7d5f247755a6e35afe68abb57e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\NativeStarterKit\RNPermissionsModule\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92de0a64bcc7c81013c0a55751a68389e1484105">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\NativeStarterKit-RNPermissionsModule-unspecified_f51a1d5f0006e3756d38232389de0594858c6d38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.45.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.45.1_9110472557ba8ce271c68001a70fd1e662f5e48c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\NativeStarterKit\react-native-fcm\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="04300005bb472e1b763088698eeccbee98136ce5">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\NativeStarterKit-react-native-fcm-unspecified_e135fe5fabefda8254c8c017b47bb0faea2e95f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\NativeStarterKit\react-native-maps\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="634269d826283e4221210b70e7ebcb44b6e7d918">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\NativeStarterKit-react-native-maps-unspecified_697012ab27de21f00124bd01806a263bbf8bdb0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.17\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\me.leolin-ShortcutBadger-1.1.17_e29e8db3b828b356da6498daeefcea8447924aba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_c8871faa757dc5bed1b0a6a934f9947052d95307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_559ca1da474d396304d5b12739d9b0c92dcff507.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_62bd43a957ea8c8a41b7acd18f7a21c0eee41297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_90a6fe599699d67465b83961850bf94950f4122b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_4da34a08f8ef9565be57762458e5c3e3be0f8f89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gyongyong\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_388a9068541f6891ffde8a7eeec4b1b1ca009f22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gyongyong\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_760e14fd6e6a7b2a0b195172152312c331f2f374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_cd89abea179c7b615647bcb4e42b49c5b02255a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\NativeStarterKit\react-native-code-push\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="87c4bf23d986e40b9869bbf64fbc231a019f14a0">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\NativeStarterKit-react-native-code-push-unspecified_68f9011784523ca061690831e8d6e3101c10877d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_4fa63adc3381322682e07a44b7bec58a50cc4c80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gyongyong\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1_fd015f89b0e15bfbad06cae7ff31277c50defe8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_6d631d6d25a4a24edaab5bdcb7c3118f0ccf56d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_464964f0e8885f2402b1eadfedda80379de1f82f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gyongyong\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_fe729392bbb43a601b6f8421c1e5afc31f28a3e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_ca9735deaa4e9bf2b1fe9db18dc9a575c22dab9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_3571969494c23e282c4191758b0a24d3e101144d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_0473faa8c5d885706da8556df88e471166a8bb83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_aa36586839cd3aef465750b43620a4f545e03720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_f12f747dfe8f1c8370fac887f69d766953567c22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\NativeStarterKit\react-native-image-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed80840d302bee1f5dd42cefa1fa8e6100100535">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\NativeStarterKit-react-native-image-picker-unspecified_46879343e73a2b4ed0acc14bb00ade628d15ac2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gyongyong\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_0c0315789d89d558498fee116270becdee0aeca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_b95f769a7d8355f8b211e4a3d011a7ab1110f8a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_e3d46ac635f52f310d3caefc7c1ec61e96901e66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_c767bfdce342c3991f0ea50e73f8f9412ce76a80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_cadc1d84d14f9235009e23c39d8bebbefa199975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gyongyong\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_80b98331ebee27c3e4b68076b94da2270f4b3903.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_db4510e1755a9f573e02ae67c4108d01bbe8818d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_a1a6a182f6bbeaf6933dcd87c7f1958c22e792c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_5d11e6eb7d4f6214069c017de31d38a7311ee45d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.45.1\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_9dbce4e42da71789f174e9a205f7742070cdeb2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_cbb7374926f886d7f0f35547a49df4d572c726b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.45.1\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_8ba06ab48ce0a6b7d6b9020927b6e44eed402c7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_c60e105def825631253b38f13ad233f84e5c9577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_c9e84d96d0ec31c547fff937ee755b0e0628828c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\NativeStarterKit\react-native-immediate-phone-call\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a63d2690341a8ebc70cb601834785941a6e48b13">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\NativeStarterKit-react-native-immediate-phone-call-unspecified_95e5ef804fcd736b02b9698143433239e14793f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_44d126d2254a62a0b067282c48834b8b505eeaf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_97635b1089d2d3bb8431fadb3315cd1e29c46232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_58d7ec5c967476fd57504c69aae58f62bf6391d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_469b5927fdf3ab88b6da91ada6fb783a664a2cfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gyongyong\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1_54ddac16ba8a7afa8c293ac8e1aebdba1820eacc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gyongyong\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_47a1b7fc432317fdfd804f3ab87a94fb979e57e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gyongyong\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0_4cc577e7f0046ac91b479061cca7f4b6b02140fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_22a84a16032a6211278ba4af1785fdb7a301c89b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_7f452cc6fae6a3c1938b3ab6c6539aa17725c617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_ea053455cdda8c3442599c372f581ebc959fa09f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\NativeStarterKit\react-native-immediate-phone-call\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a63d2690341a8ebc70cb601834785941a6e48b13">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\NativeStarterKit-react-native-immediate-phone-call-unspecified_75568d5775f6f403c4b89f4378b1dbacf59baedc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.45.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="E:\Ri Gwang\Sources\native-starter-kit-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.45.1_2ed877b27adefa728a85271baa55635c5c4d8735.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="E:\Ri Gwang\task\Avatar-Inspection\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_eeb75f937b9d6b434beed3203baefbccd8e8d17a.jar" />
+    </item>
+
+</items>
